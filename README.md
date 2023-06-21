@@ -1,1 +1,2 @@
-# odin-recipes2
+In this lesson i will put into practice the usage of the command line alongisde Git in order to re-inforce all the knowledge on how to create a project.
+I will also put into practice commit messages, as well as html basics such as proper boilerplate, addition of paragraphs, headers, links and images.
